@@ -37,3 +37,8 @@ This Tableau dashboard provides an in-depth analysis of the IPL (Indian Premier 
 ## Tools & Technologies Used
 - *Tableau*: Data visualization and dashboard creation.
 - *Excel/CSV*: Data storage and preprocessing.
+
+### 📊 Dashboard Preview
+![Screenshot 2025-02-24 223214](https://github.com/user-attachments/assets/4f6f7726-c87e-4dd7-8ea8-dcfeeb41f268)
+![Screenshot 2025-02-24 223238](https://github.com/user-attachments/assets/772495ae-f468-4902-a222-eabac9ea5ec7)
+
